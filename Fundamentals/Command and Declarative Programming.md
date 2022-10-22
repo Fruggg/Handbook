@@ -54,4 +54,4 @@ A quick distinction is in order:
 
 ###
 
-If you yet hunger for perfection beyond Declarative, check out the SOLID principles, one of the most popular set of guidelines for clean code out there. I would recommend watching Tim Corey's videos on the priciples. They're boring as *redacted*, but they are presented carefully enough to actually teach. Another caveat is that he uses C#. Even though he uses a different language, the priciples still apply in Java. Also, C# and Java are very similar in basic syntax, with differences you don't need to worry about yet. 
+If you yet hunger for perfection beyond Declarative, check out the SOLID principles, one of the most popular set of guidelines for clean code out there. I would recommend watching Tim Corey's videos on the priciples. They're boring as *redacted*, but they are presented carefully enough to actually teach. Another caveat is that he uses C#. Even though he uses a different language, the priciples still apply in Java. Also, C# and Java are very similar in basic syntax, with differences you don't need to worry about yet.
